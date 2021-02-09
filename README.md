@@ -25,10 +25,10 @@
 <h1 align="center">Tools</h1>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=intellij-idea&style=for-the-badge&logoColor=coral">
+  <img src="https://img.shields.io/static/v1?&label=IDE&message=PHPStorm&color=purple&logo=intellij-idea&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?label=Distro&message=Feren-OS&color=orange&logo=linux&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/static/v1?label=Shell&message=Konsole&color=black&logo=powershell&style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/static/v1?label=Shell&message=Hyper&color=black&logo=powershell&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-badge&logoColor=green">
-  <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/static/v1?&label=Browser&message=Chromium&color=blue&logo=google-chrome&style=for-the-badge&logoColor=yellow">
 </div>
 
