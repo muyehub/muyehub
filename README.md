@@ -14,11 +14,11 @@
 
 <h1 align="center">Skills</h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/go-#323330.svg?&style=for-the-badge&logo=go&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=automatic&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%FCC624.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-#323330.svg?&style=for-the-badge&logo=php&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
